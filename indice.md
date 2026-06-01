@@ -1,0 +1,1 @@
+Archivo modificado para generar un conflicto a la hora de mergear
