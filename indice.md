@@ -12,6 +12,7 @@ En este trabajo se abordan diferentes comandos básicos de git junto con otros m
 - [git config](config.md)
 - [git status](status.md)
 - [git add / git rm / git git mv](add-rm-mv.md)
+- [git commit](commit.md)
 - [git fetch / git pull / git push](fetch-pull-push.md)
 - [git log](log.md)
 - [git diff](diff.md)
